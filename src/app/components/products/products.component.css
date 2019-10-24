@@ -1,0 +1,12 @@
+.product{
+    margin-bottom:25px;
+}
+.product .bg-light{
+    background: #FFFFFF !important;
+    border: 4px solid #F7F6F6;
+}
+
+.product h2, .product h3, .product h4, .product p{
+    color: #717171;
+    font-family: 'Lato', sans-serif;
+}

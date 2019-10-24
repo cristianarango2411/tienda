@@ -1,0 +1,16 @@
+.brand{
+    margin-bottom:25px;
+}
+.brand .bg-light{
+    background: #FFFFFF !important;
+    border: 4px solid #F7F6F6;
+}
+
+.brand h2, .product h3, .product h4, .product p{
+    color: #E4E4E4;
+    font-family: 'Lato', sans-serif;
+}
+
+.brand p{
+    font-size: 12px;
+}

@@ -1,0 +1,30 @@
+.bg-dark {
+  background-color: #FCFCFC !important;
+}
+
+.navbar-dark .navbar-brand, .navbar-dark a{
+  color: #7F7F7F;
+}
+.navbar-dark a:hover {
+  color: #010101;
+}
+.navbar-dark .navbar-toggler{
+  color: #7F7F7F;
+}
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active{
+  color: #010101;
+}
+
+.navbar-dark button{
+  background: #7F7F7F;
+}
+
+.navbar-dark .cart{
+  text-align: right;
+}
+
+@media (max-width: 767px) {
+  .navbar-dark .cart{
+    display: none;
+  }
+}
